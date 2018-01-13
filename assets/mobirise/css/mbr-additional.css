@@ -3013,67 +3013,6 @@ body {
 .cid-qGCD9O9MGd .mbr-overlay {
   background: linear-gradient(#7ccbf1 -10%, #096693 75%);
 }
-.cid-qGCDngaUkw {
-  background-image: url("../../../assets/images/background2.jpg");
-}
-.cid-qGCDngaUkw .mbr-section-title,
-.cid-qGCDngaUkw .mbr-section-subtitle {
-  color: #879a9f;
-}
-.cid-qGCDngaUkw .mbr-section-text {
-  color: #767676;
-}
-.cid-qGCDngaUkw .mbr-text,
-.cid-qGCDngaUkw .typed-text,
-.cid-qGCDngaUkw .mbr-section-text {
-  letter-spacing: 0.03rem;
-}
-.cid-qGCDngaUkw .btn {
-  margin-left: 4px !important;
-}
-.cid-qGCDngaUkw .animated-element {
-  color: #fe525b;
-}
-.cid-qGCDngaUkw .typed-cursor {
-  opacity: 1;
-  -webkit-animation: blink 0.7s infinite;
-  -moz-animation: blink 0.7s infinite;
-  animation: blink 0.7s infinite;
-  color: #fe525b;
-}
-@keyframes blink {
-  0% {
-    opacity: 1;
-  }
-  50% {
-    opacity: 0;
-  }
-  100% {
-    opacity: 1;
-  }
-}
-@-webkit-keyframes blink {
-  0% {
-    opacity: 1;
-  }
-  50% {
-    opacity: 0;
-  }
-  100% {
-    opacity: 1;
-  }
-}
-@-moz-keyframes blink {
-  0% {
-    opacity: 1;
-  }
-  50% {
-    opacity: 0;
-  }
-  100% {
-    opacity: 1;
-  }
-}
 .cid-qG2ki2I0zt {
   padding-top: 60px;
   padding-bottom: 60px;
