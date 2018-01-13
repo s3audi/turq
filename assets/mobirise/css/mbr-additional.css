@@ -1246,6 +1246,26 @@ body {
     width: 100% !important;
   }
 }
+.cid-qGCDr4ISSO {
+  padding-top: 45px;
+  padding-bottom: 30px;
+  background-image: url("../../../assets/images/background4.jpg");
+}
+.cid-qGCDr4ISSO .container-fluid {
+  padding: 0 3rem;
+}
+.cid-qGCDr4ISSO .media-container-column {
+  padding: 0 2rem;
+}
+.cid-qGCDr4ISSO .mbr-section-title {
+  display: inline-block;
+  position: relative;
+}
+@media (max-width: 767px) {
+  .cid-qGCDr4ISSO .container-fluid {
+    padding: 0 1rem;
+  }
+}
 .cid-qG2ke8CAQ7 {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -2265,15 +2285,15 @@ body {
     left: -1rem;
   }
 }
-.cid-qG48V5CMRm {
+.cid-qGCCwcPoGh {
   padding-top: 40px;
   padding-bottom: 15px;
-  background-image: url("../../../assets/images/background7.jpg");
+  background-image: url("../../../assets/images/mbr-750x1080.jpg");
 }
-.cid-qG48V5CMRm .media-container-column .btn-bgr {
+.cid-qGCCwcPoGh .media-container-column .btn-bgr {
   z-index: 0;
 }
-.cid-qG48V5CMRm .mbr-overlay {
+.cid-qGCCwcPoGh .mbr-overlay {
   background: linear-gradient(#7ccbf1 -10%, #096693 75%);
 }
 .cid-qG2kbdXHRT {
@@ -2980,6 +3000,78 @@ body {
   }
   .cid-qG2kbdXHRT .range-controls {
     display: block !important;
+  }
+}
+.cid-qGCD9O9MGd {
+  padding-top: 40px;
+  padding-bottom: 15px;
+  background-image: url("../../../assets/images/background7.jpg");
+}
+.cid-qGCD9O9MGd .media-container-column .btn-bgr {
+  z-index: 0;
+}
+.cid-qGCD9O9MGd .mbr-overlay {
+  background: linear-gradient(#7ccbf1 -10%, #096693 75%);
+}
+.cid-qGCDngaUkw {
+  background-image: url("../../../assets/images/background2.jpg");
+}
+.cid-qGCDngaUkw .mbr-section-title,
+.cid-qGCDngaUkw .mbr-section-subtitle {
+  color: #879a9f;
+}
+.cid-qGCDngaUkw .mbr-section-text {
+  color: #767676;
+}
+.cid-qGCDngaUkw .mbr-text,
+.cid-qGCDngaUkw .typed-text,
+.cid-qGCDngaUkw .mbr-section-text {
+  letter-spacing: 0.03rem;
+}
+.cid-qGCDngaUkw .btn {
+  margin-left: 4px !important;
+}
+.cid-qGCDngaUkw .animated-element {
+  color: #fe525b;
+}
+.cid-qGCDngaUkw .typed-cursor {
+  opacity: 1;
+  -webkit-animation: blink 0.7s infinite;
+  -moz-animation: blink 0.7s infinite;
+  animation: blink 0.7s infinite;
+  color: #fe525b;
+}
+@keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@-webkit-keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@-moz-keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
   }
 }
 .cid-qG2ki2I0zt {
