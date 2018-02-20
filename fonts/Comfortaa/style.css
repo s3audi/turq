@@ -1,0 +1,18 @@
+@font-face {
+   font-family: 'Comfortaa';
+   font-style: normal;
+   font-weight: 300;
+   src: url('file:///C:/Users/MASTER/Documents/GitHub/turq//fonts/Comfortaa/300.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Comfortaa';
+   font-style: normal;
+   font-weight: 700;
+   src: url('file:///C:/Users/MASTER/Documents/GitHub/turq//fonts/Comfortaa/700.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Comfortaa';
+   font-style: regular;
+   font-weight: 400;
+   src: url('file:///C:/Users/MASTER/Documents/GitHub/turq//fonts/Comfortaa/regular.ttf') format('truetype');
+}
